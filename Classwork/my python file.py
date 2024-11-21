@@ -1,0 +1,15 @@
+print("Name's Faris Ashfaq")
+print("Age 19 turning 20 this winter")
+print("I love to mess around with computers")
+print("I am from pakistan")
+print("""I unfortunately am
+ in the same class as my sister""") #i dont actully hate her (maybe)
+print("I'd like to work as an Ai engineer")
+print("I love writing stories on occasions")
+print("I'm studying in Bath Spa RAK Campus")
+print("I am a Creative Computing Student, Year 1")
+print("I live in fujairah, it's nice there")
+#input based arithmetic answers
+A=int(input("Enter first number:"))
+B=int(input("Enter second number:"))
+print(A+B,A*B,A-B,A/B)
